@@ -6,3 +6,6 @@
 `pip install pytube`
 
 **!!!** Kod sizde çalışmıyorsa bir sanal ortamda çalıştırmayı deneyin **!!!**
+
+### Hava Durumu
+`pip install requests`
